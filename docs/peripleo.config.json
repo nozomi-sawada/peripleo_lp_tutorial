@@ -5,7 +5,7 @@
     {
       "name": "VisitPlus",
       "format": "RECOGITO_IMAGE",
-      "src": "./data/LOE1882-88.json",
+      "src": "./data/LOE1882-88.jsonld",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
